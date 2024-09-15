@@ -1,0 +1,18 @@
+-----------------------
+Date: May 08 2022
+Time: 20:35:13
+Monk Name: Daniel
+Monk Description: Monk
+Monk Health Points: 12/20
+Game Difficulty: Medium
+Game Status: Victory
+Total Rooms Encountered: 8
+-----------------------
+Date: May 20 2022
+Time: 11:59:34
+Monk Name: Dwdwdw
+Monk Description: dwdwdw
+Monk Health Points: 6/15
+Game Difficulty: Easy
+Game Status: Victory
+Total Rooms Encountered: 5
